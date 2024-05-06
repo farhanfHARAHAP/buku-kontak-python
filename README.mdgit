@@ -1,0 +1,2 @@
+"# buku-kontak-python"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin ht
+"# buku-kontak-python"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/farhanfHARAHAP/buku-kontak-python.gitgit push -u origin main

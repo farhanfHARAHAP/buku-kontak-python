@@ -1,0 +1,7 @@
+Name,Phone,Relation
+John Doe,+1234567890,Brother
+Jane Smith,+1234567891,Sister
+Michael Brown,+1234567892,Father
+Emily Jones,+1234567893,Mother
+David Miller,+1234567894,Friend
+Sarah Garcia,+1234567895,Colleague
